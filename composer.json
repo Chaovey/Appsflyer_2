@@ -1,0 +1,24 @@
+{
+    "name": "phoenix/appsflyer",
+    "description": "An Appsflyer API package.",
+    "keywords": [
+        "php",
+        "phoenix",
+        "appsflyer"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Phoenix\\Appsflyer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Visal"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "minimum-stability": "stable"
+}
