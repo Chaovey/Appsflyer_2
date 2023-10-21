@@ -3,7 +3,7 @@
         'name' => 'phoenix/appsflyer',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '86c3e8e8f982ab3ab1b6f80931eba8674c21e1da',
+        'reference' => 'b9945ba3c68ba1a7267f628b6915fb2dacc40932',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -40,7 +40,7 @@
         'phoenix/appsflyer' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '86c3e8e8f982ab3ab1b6f80931eba8674c21e1da',
+            'reference' => 'b9945ba3c68ba1a7267f628b6915fb2dacc40932',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
